@@ -1,0 +1,21 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souravkumardubey/github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souravkumardubey/github-actions/issues"
+  },
+  "homepage": "https://github.com/souravkumardubey/github-actions#readme",
+  "description": ""
+}
